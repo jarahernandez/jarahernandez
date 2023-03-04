@@ -3,7 +3,7 @@
 **`Digital Craftsman (Student/Jr Developer)`**
 
 ### Hi there 👋 welcome to my Github! I'm a Software Developer Student and a Tech Head. I'm all into learning new languages and frameworks like React or Flask.
-![images](https://user-images.githubusercontent.com/110363343/222880222-15d82e64-51bf-4459-b591-4d3dfebbb00a.jpg)
+
 
 
 <!--
