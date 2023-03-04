@@ -1,9 +1,9 @@
 # Edgar Jara
 
-##`Digital Craftsman (Developer/Student/FreeFire Pro Player)`
+**`Digital Craftsman (Student/Jr Developer)`**
 
-### Hi there 👋
-I'm a mother crocker
+### Hi there 👋 welcome to my Github! I'm a Software Developer Student and a Tech Head. I'm all into learning new languages and frameworks like React or Flask.
+
 
 <!--
 **jarahernandez/jarahernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
