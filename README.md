@@ -1,5 +1,7 @@
 # Edgar Jara
 
+##`Digital Craftsman (Developer/Student/FreeFire Pro Player)`
+
 ### Hi there 👋
 
 <!--
