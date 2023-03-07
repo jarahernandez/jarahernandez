@@ -25,9 +25,7 @@
   <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mongodb&svgfill=8fce00&text=false'/>
 </a>
   
-<a href='https://github.com/harish-sethuraman/readme-components'> <!-- mongodb -->
-  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mysql&svgfill=0b5394&text=false'/>
-</a>
+
 </div>
 
 
