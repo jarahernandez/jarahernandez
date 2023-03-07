@@ -13,6 +13,11 @@
   <img src='https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c&text=false'/>
 </a>
   
+
+  
+
+</div>
+
 <a href='https://github.com/harish-sethuraman/readme-components'> <!-- python -->
   <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=python&text=false'/>
 </a>
@@ -20,10 +25,6 @@
 <a href='https://github.com/harish-sethuraman/readme-components'> <!-- java -->
   <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=java&svgfill=f44336&text=false'/>
 </a>
-  
-
-</div>
-
 
 <a href='https://github.com/harish-sethuraman/readme-components'> <!-- mongodb -->
   <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mongodb&svgfill=8fce00&text=false'/>
