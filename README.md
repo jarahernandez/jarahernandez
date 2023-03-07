@@ -6,6 +6,8 @@
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe)](https://github.com/harish-sethuraman/readme-components)
 
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=15d8fe)](https://github.com/harish-sethuraman/readme-components)
+
 
 
 <!--
