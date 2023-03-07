@@ -6,27 +6,27 @@
 
 <div align=center>
 <a href='https://github.com/harish-sethuraman/readme-components'> <!-- react -->
-  <img src='https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe'/>
+  <img src='https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe&text=false'/>
 </a>
 
 <a href='https://github.com/harish-sethuraman/readme-components'> <!-- javascript -->
-  <img src='https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c'/>
+  <img src='https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c&text=false'/>
 </a>
   
 <a href='https://github.com/harish-sethuraman/readme-components'> <!-- python -->
-  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=python'/>
+  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=python&text=false'/>
 </a>
   
 <a href='https://github.com/harish-sethuraman/readme-components'> <!-- java -->
-  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=java&svgfill=f44336'/>
+  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=java&svgfill=f44336&text=false'/>
 </a>
   
 <a href='https://github.com/harish-sethuraman/readme-components'> <!-- mongodb -->
-  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mongodb&svgfill=8fce00'/>
+  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mongodb&svgfill=8fce00&text=false'/>
 </a>
   
 <a href='https://github.com/harish-sethuraman/readme-components'> <!-- mongodb -->
-  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mysql&svgfill=0b5394'/>
+  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mysql&svgfill=0b5394&text=false'/>
 </a>
 </div>
 
