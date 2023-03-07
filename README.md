@@ -18,7 +18,7 @@
 </a>
   
 <a href='https://github.com/harish-sethuraman/readme-components'>
-  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=java'/>
+  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=java&svgfill=f44336'/>
 </a>
   
 <a href='https://github.com/harish-sethuraman/readme-components'>
