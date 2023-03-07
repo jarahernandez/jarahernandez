@@ -5,27 +5,27 @@
 <h3> Hi there 👋 welcome to my Github! I'm a Software Developer Student and a Tech Head. I'm all into learning new languages and frameworks like React or Flask. </h3>
 
 <div align=left>
-<a href='https://github.com/harish-sethuraman/readme-components'> <!-- react -->
+<a href='https://github.com/harish-sethuraman/readme-components'> 
   <img src='https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe&text=false'/>
 </a>
 
-  <a href='https://github.com/harish-sethuraman/readme-components'> <!-- javascript -->
+  <a href='https://github.com/harish-sethuraman/readme-components'> 
   <img src='https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c&text=false'/>
 </a>
   
-  <a href='https://github.com/harish-sethuraman/readme-components'> <!-- python -->
+  <a href='https://github.com/harish-sethuraman/readme-components'> 
   <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=python&text=false'/>
 </a>
   
-  <a href='https://github.com/harish-sethuraman/readme-components'> <!-- java -->
+  <a href='https://github.com/harish-sethuraman/readme-components'> 
   <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=java&svgfill=f44336&text=false'/>
 </a>
 
-  <a href='https://github.com/harish-sethuraman/readme-components'> <!-- mongodb -->
+  <a href='https://github.com/harish-sethuraman/readme-components'> 
   <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mongodb&svgfill=8fce00&text=false'/>
 </a>
   
-  <a href='https://github.com/harish-sethuraman/readme-components'> <!-- mysql -->
+  <a href='https://github.com/harish-sethuraman/readme-components'> 
   <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mysql&svgfill=0b5394&text=false'/>
 </a>
 </div>
