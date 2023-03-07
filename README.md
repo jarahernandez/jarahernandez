@@ -1,4 +1,4 @@
-<h1> Edgar Daniel Jara Hernandez </h1>
+<h1> Edgar Jara </h1>
 
 **`Digital Craftsman (Student/Jr Developer)`**
 
