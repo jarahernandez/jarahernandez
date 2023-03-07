@@ -1,8 +1,8 @@
-<h1> Edgar Jara</h1>
+<h1> Edgar Daniel Jara Hernandez</h1>
 
 **`Digital Craftsman (Student/Jr Developer)`**
 
-### Hi there 👋 welcome to my Github! I'm a Software Developer Student and a Tech Head. I'm all into learning new languages and frameworks like React or Flask.
+<h3> Hi there 👋 welcome to my Github! I'm a Software Developer Student and a Tech Head. I'm all into learning new languages and frameworks like React or Flask. </h3>
 
 <a href='https://github.com/harish-sethuraman/readme-components'>
   <img src='https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe'/>
