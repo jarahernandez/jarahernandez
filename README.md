@@ -4,6 +4,8 @@
 
 ### Hi there 👋 welcome to my Github! I'm a Software Developer Student and a Tech Head. I'm all into learning new languages and frameworks like React or Flask.
 
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
+
 
 
 <!--
