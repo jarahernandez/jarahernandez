@@ -9,23 +9,23 @@
   <img src='https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe&text=false'/>
 </a>
 
-<a href='https://github.com/harish-sethuraman/readme-components'> <!-- javascript -->
+  <a href='https://github.com/harish-sethuraman/readme-components'> <!-- javascript -->
   <img src='https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c&text=false'/>
 </a>
   
-<a href='https://github.com/harish-sethuraman/readme-components'> <!-- python -->
+  <a href='https://github.com/harish-sethuraman/readme-components'> <!-- python -->
   <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=python&text=false'/>
 </a>
   
-<a href='https://github.com/harish-sethuraman/readme-components'> <!-- java -->
+  <a href='https://github.com/harish-sethuraman/readme-components'> <!-- java -->
   <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=java&svgfill=f44336&text=false'/>
 </a>
 
-<a href='https://github.com/harish-sethuraman/readme-components'> <!-- mongodb -->
+  <a href='https://github.com/harish-sethuraman/readme-components'> <!-- mongodb -->
   <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mongodb&svgfill=8fce00&text=false'/>
 </a>
   
-<a href='https://github.com/harish-sethuraman/readme-components'> <!-- mysql -->
+  <a href='https://github.com/harish-sethuraman/readme-components'> <!-- mysql -->
   <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mysql&svgfill=0b5394&text=false'/>
 </a>
 </div>
