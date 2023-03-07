@@ -22,7 +22,7 @@
 </a>
   
 <a href='https://github.com/harish-sethuraman/readme-components'>
-  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mongodb'/>
+  <img src='https://readme-components.vercel.app/api?component=logo&&fill=black&logo=mongodb&svgfill=8fce00'/>
 </a>
 </div>
 
