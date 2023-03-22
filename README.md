@@ -1,11 +1,15 @@
-<h1> Edgar Jara </h1>
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&multiline=true&repeat=false&width=435&height=100&lines=Welcome+to+my+GitHub!;I'm+Edgar+Jara" alt="Typing SVG" /></a>
+</p>
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=510&lines=Full-Stack+Developer;Computer+Science+Student;Learning+new+things+everyday" alt="Typing SVG" /></a>
+</p>
 
-**`Digital Craftsman (Student/Jr Developer)`**
+<!-- **`Digital Craftsman (Student/Jr Developer)`**
 
-<h4> Hi there 👋, welcome to my Github! I'm a Software Developer Student and a Tech Head. I'm all into learning new languages and frameworks like React or Flask. </h4>
+<h4> Hi there 👋, welcome to my Github! I'm a Software Developer Student and a Tech Head. I'm all into learning new languages and frameworks like React or Flask. </h4> -->
 
-
-<h2> What I use </h2>
+<h2> What I use :</h2>
 
 <div>
 
