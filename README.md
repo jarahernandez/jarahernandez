@@ -1,13 +1,29 @@
-<p>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+
+I’m **Edgar**, a Computer Science Student @ Kean University. I like learning building clean, modern interfaces with smooth animations and keeping things simple.
+
+**These days I’m focused on:**
+- React, JavaScript, Database Management
+
+---
+
+**Some stuff I built:**
+
+---
+
+**Fun Facts:**
+
+* I like to lift
+* I don’t like coffee or tea
+* Hajime No Hippo is my favorite anime
+* **Hobbies:** gym, gaming, building things
+
+<!-- <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&multiline=true&repeat=false&width=435&height=100&lines=Welcome+to+my+GitHub!;I'm+Edgar+Jara" alt="Typing SVG" /></a>
 </p>
 <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=510&lines=Full-Stack+Developer;Computer+Science+Student;Learning+new+things+everyday" alt="Typing SVG" /></a>
 </p>
-
-<!-- **`Digital Craftsman (Student/Jr Developer)`**
-
-<h4> Hi there 👋, welcome to my Github! I'm a Software Developer Student and a Tech Head. I'm all into learning new languages and frameworks like React or Flask. </h4> -->
 
 <h2> What I use :</h2>
 
@@ -85,18 +101,4 @@
 </div>
 
 
-
-<!--
-**jarahernandez/jarahernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ -->
